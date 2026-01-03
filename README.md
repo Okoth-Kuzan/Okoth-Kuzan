@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Okoth Kuzan
 
-<!--
-**Okoth-Kuzan/Okoth-Kuzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A short bio: I'm a software engineer passionate about AI, open-source and Cyber Security. Currently learning to navigate the ins and outs of Cyber Security.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently a student at ALX.
+- 🌱 I’m learning Cyber Security.
+- 🤔 I’m looking for help with improving my skills in Software engineering and Cyber security.
+- 💬 Ask me about anything and everythin C.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Languages: C, Python, JavaScript, Java
+- Frameworks: React, Django, Spring
+- Tools: Git, Docker, AWS
+
+## 🔗 Connect with Me
+[![LinkedIn](https://www.linkedin.com/in/Terance%20Okoth)
+[![Twitter](https://www.twitter.com/Edward_Terrance)
+
+Thanks for visiting! ⭐️ If you like what you see, star some repos!
