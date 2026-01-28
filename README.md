@@ -3,10 +3,10 @@
 A short bio: I'm a software engineer passionate about AI, open-source and Cyber Security. Currently learning to navigate the ins and outs of Cyber Security.
 
 ## 🚀 About Me
-- 🔭 I’m currently a student at ALX.
-- 🌱 I’m learning Cyber Security.
-- 🤔 I’m looking for help with improving my skills in Software engineering and Cyber security.
-- 💬 Ask me about anything and everythin C.
+- 🔭 ALX SE alumni.
+- 🌱 Currently learning Cyber Security.
+- 🤔 I’m looking to improve my skills as a Software Devveloper and learn more about Cyber security.
+- 💬 Ask me about anything and everything C.
 
 ## 🛠️ Skills
 - Languages: C, Python, JavaScript, Java
