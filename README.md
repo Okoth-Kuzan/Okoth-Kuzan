@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Okoth Kuzan
 
-A short bio: I'm a software engineer passionate about AI, open-source and Cyber Security. Currently learning to navigate the ins and outs of Cyber Security.
+I am a software developer with some experience building automated trading systems, having developed quite a few, my skills lean more towards building financial applications. Now looking to gain some technical expertise in cybersecurity.
 
 ## 🚀 About Me
 - 🔭 ALX SE alumni.
@@ -9,9 +9,9 @@ A short bio: I'm a software engineer passionate about AI, open-source and Cyber 
 - 💬 Ask me about anything and everything C.
 
 ## 🛠️ Skills
-- Languages: C, Python, JavaScript, Java
+- Languages: MQL4/MQL5 for meta-trader, C, C++, Python
 - Frameworks: React, Django, Spring
-- Tools: Git, Docker, AWS
+- Tools: Git, Docker, 
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://www.linkedin.com/in/Terance%20Okoth)
